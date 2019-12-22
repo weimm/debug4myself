@@ -1,2 +1,2 @@
 # debug4myself
-debug for myself
+test
